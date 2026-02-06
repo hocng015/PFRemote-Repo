@@ -5,14 +5,14 @@
         "Punchline": "Control Party Finder remotely via Discord",
         "Description": "PFRemote allows you to browse, join, and create Party Finder listings remotely through a Discord bot. Perfect for managing parties from your phone or another device.",
         "InternalName": "PFRemote",
-        "AssemblyVersion": "1.2.20",
+        "AssemblyVersion": "1.2.21",
         "RepoUrl": "https://github.com/hocng015/PFRemote-Repo",
         "ApplicableVersion": "any",
         "Tags": ["party finder", "remote", "discord"],
         "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://github.com/hocng015/PFRemote-Repo/releases/download/v1.2.20/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/hocng015/PFRemote-Repo/releases/download/v1.2.20/latest.zip",
-        "DownloadLinkTesting": "https://github.com/hocng015/PFRemote-Repo/releases/download/v1.2.20/latest.zip",
+        "DownloadLinkInstall": "https://github.com/hocng015/PFRemote-Repo/releases/download/v1.2.21/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/hocng015/PFRemote-Repo/releases/download/v1.2.21/latest.zip",
+        "DownloadLinkTesting": "https://github.com/hocng015/PFRemote-Repo/releases/download/v1.2.21/latest.zip",
         "IconUrl": ""
     }
 ]
